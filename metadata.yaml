@@ -1,0 +1,34 @@
+_repo: The-Oxford-ReformersJohn-Colet-Erasmus-and-Thomas-More_43735
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43735-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Seebohm, Frederic
+    aliases:
+    - Seebohm, F. (Frederic)
+    - Seebohm, Frederick
+    birthdate: 1833
+    deathdate: 1912
+    gutenberg_agent_id: '42377'
+    url: http://www.gutenberg.org/2009/agents/42377
+description: ''
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Colet, John, 1467?-1519'
+- !lcsh 'Education -- England -- Oxford -- History -- 16th century'
+- !lcsh 'More, Thomas, Saint, 1478-1535'
+- !lcsh 'Erasmus, Desiderius, -1536'
+- !lcsh 'Reformers -- England -- Oxford -- Biography'
+- !lcsh 'Reformation -- England'
+title: 'The Oxford Reformers: John Colet, Erasmus, and Thomas More'
+url: http://www.gutenberg.org/ebooks/43735
