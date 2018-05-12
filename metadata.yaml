@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '42377'
     url: http://www.gutenberg.org/2009/agents/42377
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43735#The-Oxford-ReformersJohn-Colet-Erasmus-and-Thomas-More
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
